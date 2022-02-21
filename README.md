@@ -1,2 +1,2 @@
 # WebMap
-Location website build with a React strap.
+Location website built with a React strap.
